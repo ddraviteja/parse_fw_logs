@@ -1,3 +1,3 @@
 Usage:
 
-python parse_fW_logs.txt dmesg.txt Data.msc
+python parse_fw_logs.py dmesg.txt Data.msc
